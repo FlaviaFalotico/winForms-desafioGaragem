@@ -1,6 +1,8 @@
 <h1 align="center">:file_cabinet:Sistema de Garagem GaraGeek</h1>
 
- <img align="center" alt="Fla-pic" height="548" width="821" style="border-radius:30px;" src="https://lh3.googleusercontent.com/huUR7aJf795MCDYSWTINZBzOjGz-3FMX3K9WJGIDQuWUwFNSvoraiGawi-Llh8m6HT6_3MYFqMGZ9t2abgOqFncwxn9HhhVxy6gMZrzvMWtimQWRHG4_MoJMR_637JHVbQ5ihprHYG9GvqHgGIedjVAqD0XQrlU1XWArJhGDhihS8h1YJUE1lXslUl9Z7uk7TME2HrXbGwTFn1hv2QWgA6BtEhgF81R51q1tw-Np4oDt8I6OiluUS8QWLpA0-jO7n95xZJ2b3n0ndJ9pyZfE4CJHhTXQZubSyY_oqdLxC70U-6Qf6jRZ916fZuf1bQZiR8O4VAOEpHMdGPDxHr6zXsJO6gCkrzoLlE8EBCFk_XNYjLBjxrXLsPOP6Y2yLp9A7snMDJ4ROxBNIg2lYGb8MpHTGLawb0VW-yCnSDnU3jJ39u70Is7vxyCj8TgsG60yuYQI7gYi0yh3oh-owTB8EJA8PzhGOJmCytkUBSH_RKhK3lY62TkgW6cATv5Lk4T-bblEkSxcsp8w3GiYxFnPYBi0dGHMe_bwzfPHbMsqck7d_Ygu2UX4ED5coF7EH8-agmIi21C2UbET_JHvzb14jNBEbp-rdnX9sI_ymsHbSI8FaCZ3kVqwb8rzxK_TEWAM1C15uCW0Lf75mUv3GIUsfQUPG36eh-rN3SLoGoXWnb7FOVFbAEj-XiM7G48agIx7vSXNTVsiZaaHIP5Bjg5A4fE_MDVBhDLTO42ZioZOZRaSIBlHdQTUpolFgmxQ=w805-h537-no?authuser=0">
+## 🎥 Assista ao vídeo do GaraGeek
+
+[![GaraGeek](https://lh3.googleusercontent.com/lfmMwdSJfDbL9YS3cnUtypbQPNxyqxDF0ZJ05ToDJWln11G3V9NfQA62t2snpar9SsBBkH1GtKCzH63YJimsMgS45ZcA-LwdlozQPay-bwEGPVD8za7nnGUjoTZSQP0b9lzJgKzKl4iivBBRwziTD5WA1BGRmiIQYUQkqZPwie8n9R-a2I7jf2q7E4n1OzrVFXKkMaNPzG7gvn5nX9HYxo_chPUFQx-z7SkyUXJ8MywsO4QDqKSKzBybz59y2Rok1p7R51dfGVDIPjoEPZyczQPftVql8p88QJ7PtnQuVtjCEcJujCJF4ueONMK3QZ9ZQEEtX3GBu-Q93Ze0InQmKvVo3IYpJE4TaCfClt6lJWIhYhlV_1ETLfb-sYcBoLhI_j6CaZkutYXTMAf7KyOPZrnRl_8q4K7CGey5GnAU7lEG3NOjniWTkl1kguTDbOEdWcGXY76AYRqygu9ZtMlJYtk_rgsaSGc-5Fs3HU-bGpqctm90IAzaRzS2qnOZzET1b0PZkRe06aK0BjlVPwt5DjukqWlH8TxR3VSzktdNHpmTgnDIsgGbyoVO8DNIvHb3nmR2twYdzgPicbW-gsZ-by24CXHAuuMVJX720KrHrD9BRqMuhpaXBIVIkgJqIoUjJmweeSZdYZqvYUxZ9TpRy_3LliB8f-afqcO5sgOeW5c80UsOwXPNEuTWZ6qjFftLHG5FPRfUZv4cQNIIxWszXSQY8y94Gqg-O9_OAAO5qEUWOVpF4wbX18Wk_JBp=w805-h537-no?authuser=0)](https://youtu.be/ZELJz10mO_c)
 
 ## :memo: Descrição
 Sistema de Garagem Rotativa desenvolvido como parte das atividades realizadas durante a Academia .NET da AtoS, em parceria com a Universidade Franciscana (UFN). 
@@ -31,5 +33,5 @@ Para rodar o repositório é necessário clonar o mesmo, dar o seguinte comando 
 </table>
 
 
-## :dart: Status do projeto
-* Em progresso. 
+## :image: Status do projeto
+* Imagem do Formulário Principal 
