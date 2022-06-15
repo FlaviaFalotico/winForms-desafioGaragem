@@ -34,4 +34,4 @@ Para rodar o repositório é necessário clonar o mesmo, dar o seguinte comando 
 
 
 ## :image: Status do projeto
-* Imagem do Formulário Principal 
+* Em Progresso
