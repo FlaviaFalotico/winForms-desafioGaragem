@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32421.90
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Projeto_Garagem_WinForm", "Projeto_Garagem_WinForm\Projeto_Garagem_WinForm.csproj", "{B746D23C-BD34-4636-8EC1-67B15C2C6D95}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B746D23C-BD34-4636-8EC1-67B15C2C6D95}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B746D23C-BD34-4636-8EC1-67B15C2C6D95}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B746D23C-BD34-4636-8EC1-67B15C2C6D95}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B746D23C-BD34-4636-8EC1-67B15C2C6D95}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F1A158EC-2385-4868-AA2C-DC75A9333C93}
+	EndGlobalSection
+EndGlobal
