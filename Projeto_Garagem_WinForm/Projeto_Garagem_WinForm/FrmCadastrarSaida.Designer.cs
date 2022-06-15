@@ -50,10 +50,10 @@
             this.lblCadSai.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.lblCadSai.Font = new System.Drawing.Font("Yu Gothic", 13.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.lblCadSai.ForeColor = System.Drawing.Color.LightGreen;
-            this.lblCadSai.Location = new System.Drawing.Point(12, 29);
+            this.lblCadSai.Location = new System.Drawing.Point(10, 23);
             this.lblCadSai.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
             this.lblCadSai.Name = "lblCadSai";
-            this.lblCadSai.Size = new System.Drawing.Size(552, 36);
+            this.lblCadSai.Size = new System.Drawing.Size(442, 29);
             this.lblCadSai.TabIndex = 2;
             this.lblCadSai.Text = "Cadastro de Saída de Veículos";
             // 
@@ -64,10 +64,10 @@
             this.lblSeparador.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.lblSeparador.Font = new System.Drawing.Font("Yu Gothic", 13.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.lblSeparador.ForeColor = System.Drawing.Color.LightGreen;
-            this.lblSeparador.Location = new System.Drawing.Point(12, 85);
+            this.lblSeparador.Location = new System.Drawing.Point(10, 68);
             this.lblSeparador.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
             this.lblSeparador.Name = "lblSeparador";
-            this.lblSeparador.Size = new System.Drawing.Size(654, 1);
+            this.lblSeparador.Size = new System.Drawing.Size(524, 1);
             this.lblSeparador.TabIndex = 3;
             // 
             // btFechar
@@ -80,10 +80,10 @@
             this.btFechar.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.btFechar.Font = new System.Drawing.Font("Yu Gothic", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btFechar.ForeColor = System.Drawing.Color.DimGray;
-            this.btFechar.Location = new System.Drawing.Point(605, 545);
+            this.btFechar.Location = new System.Drawing.Point(484, 436);
             this.btFechar.Margin = new System.Windows.Forms.Padding(2);
             this.btFechar.Name = "btFechar";
-            this.btFechar.Size = new System.Drawing.Size(106, 44);
+            this.btFechar.Size = new System.Drawing.Size(85, 35);
             this.btFechar.TabIndex = 6;
             this.btFechar.Text = "Fechar";
             this.btFechar.UseVisualStyleBackColor = false;
@@ -99,10 +99,10 @@
             this.btLimpar.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.btLimpar.Font = new System.Drawing.Font("Yu Gothic", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btLimpar.ForeColor = System.Drawing.Color.DimGray;
-            this.btLimpar.Location = new System.Drawing.Point(395, 401);
+            this.btLimpar.Location = new System.Drawing.Point(316, 321);
             this.btLimpar.Margin = new System.Windows.Forms.Padding(2);
             this.btLimpar.Name = "btLimpar";
-            this.btLimpar.Size = new System.Drawing.Size(122, 44);
+            this.btLimpar.Size = new System.Drawing.Size(98, 35);
             this.btLimpar.TabIndex = 20;
             this.btLimpar.Text = "Limpar";
             this.btLimpar.UseVisualStyleBackColor = false;
@@ -118,10 +118,10 @@
             this.btFinalizar.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.btFinalizar.Font = new System.Drawing.Font("Yu Gothic", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btFinalizar.ForeColor = System.Drawing.Color.DimGray;
-            this.btFinalizar.Location = new System.Drawing.Point(246, 401);
+            this.btFinalizar.Location = new System.Drawing.Point(197, 321);
             this.btFinalizar.Margin = new System.Windows.Forms.Padding(2);
             this.btFinalizar.Name = "btFinalizar";
-            this.btFinalizar.Size = new System.Drawing.Size(122, 44);
+            this.btFinalizar.Size = new System.Drawing.Size(98, 35);
             this.btFinalizar.TabIndex = 19;
             this.btFinalizar.Text = "Finalizar";
             this.btFinalizar.UseVisualStyleBackColor = false;
@@ -131,12 +131,12 @@
             // 
             this.tbPlacaSaida.Font = new System.Drawing.Font("Yu Gothic", 13.8F, System.Drawing.FontStyle.Bold);
             this.tbPlacaSaida.ForeColor = System.Drawing.Color.DimGray;
-            this.tbPlacaSaida.Location = new System.Drawing.Point(296, 131);
+            this.tbPlacaSaida.Location = new System.Drawing.Point(237, 105);
             this.tbPlacaSaida.Margin = new System.Windows.Forms.Padding(2);
             this.tbPlacaSaida.Multiline = true;
             this.tbPlacaSaida.Name = "tbPlacaSaida";
-            this.tbPlacaSaida.Size = new System.Drawing.Size(176, 45);
-            this.tbPlacaSaida.TabIndex = 15;
+            this.tbPlacaSaida.Size = new System.Drawing.Size(142, 37);
+            this.tbPlacaSaida.TabIndex = 1;
             this.tbPlacaSaida.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
             // 
             // lblPlaca
@@ -145,10 +145,10 @@
             this.lblPlaca.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.lblPlaca.Font = new System.Drawing.Font("Yu Gothic", 13.8F, System.Drawing.FontStyle.Bold);
             this.lblPlaca.ForeColor = System.Drawing.Color.LightGreen;
-            this.lblPlaca.Location = new System.Drawing.Point(189, 146);
+            this.lblPlaca.Location = new System.Drawing.Point(151, 117);
             this.lblPlaca.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
             this.lblPlaca.Name = "lblPlaca";
-            this.lblPlaca.Size = new System.Drawing.Size(102, 24);
+            this.lblPlaca.Size = new System.Drawing.Size(82, 19);
             this.lblPlaca.TabIndex = 14;
             this.lblPlaca.Text = "Placa:";
             this.lblPlaca.TextAlign = System.Drawing.ContentAlignment.MiddleRight;
@@ -159,10 +159,10 @@
             this.lblHoraSaida.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.lblHoraSaida.Font = new System.Drawing.Font("Yu Gothic", 13.8F, System.Drawing.FontStyle.Bold);
             this.lblHoraSaida.ForeColor = System.Drawing.Color.LightGreen;
-            this.lblHoraSaida.Location = new System.Drawing.Point(168, 194);
+            this.lblHoraSaida.Location = new System.Drawing.Point(134, 155);
             this.lblHoraSaida.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
             this.lblHoraSaida.Name = "lblHoraSaida";
-            this.lblHoraSaida.Size = new System.Drawing.Size(118, 78);
+            this.lblHoraSaida.Size = new System.Drawing.Size(94, 62);
             this.lblHoraSaida.TabIndex = 24;
             this.lblHoraSaida.Text = "Horário de Saída:";
             this.lblHoraSaida.TextAlign = System.Drawing.ContentAlignment.BottomRight;
@@ -174,10 +174,10 @@
             this.lblDataEntrada.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.lblDataEntrada.Font = new System.Drawing.Font("Yu Gothic", 13.8F, System.Drawing.FontStyle.Bold);
             this.lblDataEntrada.ForeColor = System.Drawing.Color.LightGreen;
-            this.lblDataEntrada.Location = new System.Drawing.Point(185, 301);
+            this.lblDataEntrada.Location = new System.Drawing.Point(148, 241);
             this.lblDataEntrada.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
             this.lblDataEntrada.Name = "lblDataEntrada";
-            this.lblDataEntrada.Size = new System.Drawing.Size(102, 24);
+            this.lblDataEntrada.Size = new System.Drawing.Size(82, 19);
             this.lblDataEntrada.TabIndex = 27;
             this.lblDataEntrada.Text = "Data:";
             this.lblDataEntrada.TextAlign = System.Drawing.ContentAlignment.MiddleRight;
@@ -186,10 +186,9 @@
             // 
             this.lblHora.Font = new System.Drawing.Font("Yu Gothic", 13.8F, System.Drawing.FontStyle.Bold);
             this.lblHora.ForeColor = System.Drawing.Color.DimGray;
-            this.lblHora.Location = new System.Drawing.Point(299, 210);
-            this.lblHora.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
+            this.lblHora.Location = new System.Drawing.Point(239, 168);
             this.lblHora.Name = "lblHora";
-            this.lblHora.Size = new System.Drawing.Size(175, 45);
+            this.lblHora.Size = new System.Drawing.Size(140, 36);
             this.lblHora.TabIndex = 29;
             this.lblHora.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             // 
@@ -197,10 +196,9 @@
             // 
             this.lblData.Font = new System.Drawing.Font("Yu Gothic", 13.8F, System.Drawing.FontStyle.Bold);
             this.lblData.ForeColor = System.Drawing.Color.DimGray;
-            this.lblData.Location = new System.Drawing.Point(299, 285);
-            this.lblData.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
+            this.lblData.Location = new System.Drawing.Point(239, 228);
             this.lblData.Name = "lblData";
-            this.lblData.Size = new System.Drawing.Size(175, 45);
+            this.lblData.Size = new System.Drawing.Size(140, 36);
             this.lblData.TabIndex = 28;
             this.lblData.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             // 
@@ -210,11 +208,11 @@
             // 
             // FrmCadastrarSaida
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(120F, 120F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(96F, 96F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Dpi;
             this.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("$this.BackgroundImage")));
             this.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
-            this.ClientSize = new System.Drawing.Size(750, 628);
+            this.ClientSize = new System.Drawing.Size(600, 502);
             this.Controls.Add(this.lblHora);
             this.Controls.Add(this.lblData);
             this.Controls.Add(this.lblDataEntrada);
