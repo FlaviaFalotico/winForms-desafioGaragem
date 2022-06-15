@@ -33,5 +33,5 @@ Para rodar o repositório é necessário clonar o mesmo, dar o seguinte comando 
 </table>
 
 
-## :image: Status do projeto
+## :dart: Status do projeto
 * Em Progresso
