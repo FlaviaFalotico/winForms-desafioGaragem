@@ -23,11 +23,11 @@ Para rodar o repositório é necessário clonar o mesmo, dar o seguinte comando 
 <table>
   <tr>
     <td align="center">
-      <b> Agradeço à contribuição dos meus colegas de curso, em especial à Mayza Alvarenga, sempre solicita e colaborativa, está presente em todos os momentos me       apoiando e auxiliando durante toda à formação.</b>       
+      <b> Agradeço à contribuição dos meus colegas de curso, em especial à <a href="https://github.com/MayzaAlv">Mayza Alvarenga</a>, sempre solicita e colaborativa, está presente em todos os momentos me       apoiando e auxiliando durante toda à formação.</b>       
     </td>
   </tr>
 </table>
-<a href="https://github.com/MayzaAlv">GitHub da Mayza</a>
+
 
 ## :dart: Status do projeto
 * Em progresso. 
